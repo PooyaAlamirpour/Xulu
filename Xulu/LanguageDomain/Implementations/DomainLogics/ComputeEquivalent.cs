@@ -4,8 +4,9 @@ using System.Linq;
 using Xulu.LanguageDomain.Abstracts;
 using Xulu.LanguageDomain.Abstracts.DomainLogics;
 using Xulu.LanguageDomain.Abstracts.Validators;
+using Xulu.Operands.Abstracts;
 
-namespace Xulu.LanguageDomain.Implementations
+namespace Xulu.LanguageDomain.Implementations.DomainLogics
 {
     public class ComputeEquivalent : IComputeEquivalent
     {

@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Xulu.LanguageDomain.Abstracts.DomainLogics;
+using Xulu.Operands.Abstracts;
 
 namespace Xulu.Operands.Implementations
 {

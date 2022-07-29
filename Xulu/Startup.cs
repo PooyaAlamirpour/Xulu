@@ -8,6 +8,7 @@ using Xulu.LanguageDomain.Implementations.DomainLogics;
 using Xulu.LanguageDomain.Implementations.Validators;
 using Xulu.LanguageDomain.Models;
 using Xulu.Operands;
+using Xulu.Operands.Abstracts;
 using Xulu.Operands.Implementations;
 
 namespace Xulu

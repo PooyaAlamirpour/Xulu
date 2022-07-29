@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Xulu.Operands;
+using Xulu.Operands.Abstracts;
 using Xulu.Operands.Implementations;
 using Xulu.Operands.Models;
 

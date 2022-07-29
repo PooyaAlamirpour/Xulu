@@ -1,7 +1,6 @@
-﻿using Xulu.Operands;
-using Xulu.Operands.Models;
+﻿using Xulu.Operands.Models;
 
-namespace Xulu.LanguageDomain.Abstracts
+namespace Xulu.Operands.Abstracts
 {
     public interface IMathematicalOperationFactory
     {
