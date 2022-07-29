@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xulu", "Xulu\Xulu.csproj", "{EDBC21B8-A685-4A30-B5C9-156C64CCC94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XuluTest", "XuluTest\XuluTest.csproj", "{2A4991A3-B62B-430D-822F-AA0D70D1CA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBC21B8-A685-4A30-B5C9-156C64CCC94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBC21B8-A685-4A30-B5C9-156C64CCC94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBC21B8-A685-4A30-B5C9-156C64CCC94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBC21B8-A685-4A30-B5C9-156C64CCC94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4991A3-B62B-430D-822F-AA0D70D1CA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4991A3-B62B-430D-822F-AA0D70D1CA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4991A3-B62B-430D-822F-AA0D70D1CA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4991A3-B62B-430D-822F-AA0D70D1CA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
